@@ -30,3 +30,4 @@ build/
 ### VS Code ###
 .vscode/
 /get-pip.py
+/.mvn/wrapper/

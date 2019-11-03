@@ -12,6 +12,7 @@ public class ToDoValidationError {
 
     public ToDoValidationError(String errorMessage) {
         this.errorMessage = errorMessage;
+        System.out.println("Error Message");
     }
 
     public void addValidationError(String error) {
